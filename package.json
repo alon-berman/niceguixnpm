@@ -1,0 +1,7 @@
+{
+  "name": "nicegui",
+  "version": "1.0.0",
+  "dependencies": {
+    "leader-line": "^1.0.7"
+  }
+}
